@@ -2,7 +2,7 @@
 This is a small selection of maps created using ArcGIS, QGIS and Adobe Illustrator  
 
 ## ArcGIS
-This cost-path map was created using ArcMap for a course in advanced GIS:  
+This map was created using ArcMap for a course in advanced GIS:  
 ![alt text](https://blogs.ubc.ca/translinkupdates/files/2017/12/DADistance.jpg "Map created with ArcMap")  
 
 ## QGIS
