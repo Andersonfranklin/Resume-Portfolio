@@ -10,10 +10,10 @@ This data visualization was created for an advanced web mapping course using Map
 
 <br>
 
-<iframe src="https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons.html" height="600" width="800"></iframe>
+<iframe src="https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons" height="600" width="800"></iframe>
 
-For fullscreen use see <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons.html" title = "MapboxGL JS Example" target = "_blank"> here. </a>
-</br>
+For fullscreen use see <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons" title = "MapboxGL JS Example" target = "_blank"> here. </a>
+<br>
 
 ## Adobe Illustrator
 This map was published for a cartography course and stylized using Adobe Illustrator:
