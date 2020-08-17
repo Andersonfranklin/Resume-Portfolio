@@ -1,12 +1,8 @@
 ### Andy Fink Resume Portfolio ###
-This is a small selection of maps and data visualizations created using QGIS, MapboxGL, Adobe Illustrator, Power BI, and ArcGIS.  
-
-## QGIS
-This map was created QGIS and shows manually classified online housing posts (Craigslist, VRBO, etc.) that were used as a machine learning training dataset. This data was delivered to the City of Surrey as part of the 2018 UBC Data Science for Social Good program:  
-![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/QGIS.PNG "Map created with QGIS")
+This is a small selection of maps and data visualizations created using QGIS, MapboxGL, Adobe Illustrator, Power BI, Microsoft Excel, and ArcGIS.  
 
 ## MapboxGL JS
-This data visualization was created for an advanced web mapping course using MapboxGL JS and HTML. This is an interactive version of the QGIS map provided in the previous section. See below:
+This map was created using MapboxGL JS and shows manually classified online housing posts (Craigslist, VRBO, etc.) that were used as a machine learning training dataset. This data was delivered to the City of Surrey as part of the 2018 UBC Data Science for Social Good program:
 
 <br>
 
@@ -15,9 +11,20 @@ This data visualization was created for an advanced web mapping course using Map
 For fullscreen use see <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons" title = "MapboxGL JS Example" target = "_blank"> here. </a>
 <br>
 
+## QGIS
+This map is one of four that were created in QGIS that show property owners for a specific area in North Surrey that was being targeted for future development:  
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/swminster_owners1.PNG "Map created with QGIS")
+
+
 ## Adobe Illustrator
 This map was published for a cartography course and stylized using Adobe Illustrator:
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Illustrator.PNG "Map created with Adobe Illustrator")
+
+## Microsoft Excel
+Survey data was frequently collected using SimpleSurvey and processed using Microsoft Excel. In this example, business owners were asked to respond to a number of questions to determine how their businesses had been impacted by COVID-19. 
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/swminster_owners1.PNG "Sample survey results created using Microsoft Excel")
+
+The complete set of graphs was delivered to Surrey City Council and can be found <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Business Impact Survey Results formatted - v3.pdf" title = "Business Impact Survey Results" target = "_blank"> here. </a>
 
 ## ArcGIS
 This map was created using ArcMap for a course in advanced GIS:  
