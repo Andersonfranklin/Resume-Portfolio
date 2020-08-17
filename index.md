@@ -36,6 +36,10 @@ Canadian New Cases (Weekly) and Total Cases:
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Canadian Weekly New Cases.PNG "COVID-19 data visualized using Microsoft Excel")
 
 
+## Microsoft Power BI
+An automatically updating Power BI Dashboard containing detailed information about COVID-19 at the provincial, national, and global levels:
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c3de658b-0956-4c76-a36e-d7149c8168d6&autoAuth=true&ctid=dabca032-9edf-4a38-8128-23f1c18ab2a3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## ArcGIS
 This map was created using ArcMap for a course in advanced GIS:  
 ![alt text](https://blogs.ubc.ca/translinkupdates/files/2017/12/DADistance.jpg "Map created with ArcMap")  
