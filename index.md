@@ -1,5 +1,5 @@
 ### Andy Fink Resume Portfolio ###
-This is a small selection of maps and data visualizations created using MapboxGL JS, .  
+This is a small selection of maps and data visualizations created using MapboxGL JS, Microsoft Power BI, Microsoft Office Suite, QGIS, Adobe Illustrator, and ArcGIS.  
 
 ## MapboxGL JS
 This map was created using MapboxGL JS and shows manually classified online housing posts (Craigslist, VRBO, etc.) that were used as a machine learning training dataset. This data was delivered to the City of Surrey as part of the <a href = "https://dsi.ubc.ca/sites/default/files/Housing%20%E2%80%94%20Final%20Presentation.pdf" title = "2018 DSSG" target = "_blank"> 2018 UBC Data Science for Social Good program: </a>
