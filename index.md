@@ -1,5 +1,5 @@
 ### Andy Fink Resume Portfolio ###
-This is a small selection of maps and data visualizations created using QGIS, MapboxGL, Adobe Illustrator, Power BI, Microsoft Office Suite, and ArcGIS.  
+This is a small selection of maps and data visualizations created using MapboxGL JS, .  
 
 ## MapboxGL JS
 This map was created using MapboxGL JS and shows manually classified online housing posts (Craigslist, VRBO, etc.) that were used as a machine learning training dataset. This data was delivered to the City of Surrey as part of the <a href = "https://dsi.ubc.ca/sites/default/files/Housing%20%E2%80%94%20Final%20Presentation.pdf" title = "2018 DSSG" target = "_blank"> 2018 UBC Data Science for Social Good program: </a>
@@ -12,14 +12,10 @@ This map was created using MapboxGL JS and shows manually classified online hous
 For fullscreen use see <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons" title = "MapboxGL JS Example" target = "_blank"> here. </a>
 <br>
 
-## QGIS
-This map is one of four that were created in QGIS that show property owners for a specific area in North Surrey that was being targeted for future development:  
-![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/swminster_owners1.PNG "Map created with QGIS")
 
-
-## Adobe Illustrator
-This map was published for a cartography course and stylized using Adobe Illustrator:
-![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Illustrator.PNG "Map created with Adobe Illustrator")
+## Microsoft Power BI
+An automatically updating Power BI Dashboard containing detailed information about COVID-19 at the provincial, national, and global levels:
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c3de658b-0956-4c76-a36e-d7149c8168d6&autoAuth=true&ctid=dabca032-9edf-4a38-8128-23f1c18ab2a3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Microsoft Office Suite
 Survey data was frequently collected using SimpleSurvey and processed using Microsoft Excel. In this example, business owners were asked to respond to a number of questions to determine how their businesses had been impacted by COVID-19. 
@@ -37,9 +33,14 @@ Canadian New Cases (Weekly) and Total Cases:
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Canadian Weekly New Cases.PNG "COVID-19 data visualized using Microsoft Excel")
 
 
-## Microsoft Power BI
-An automatically updating Power BI Dashboard containing detailed information about COVID-19 at the provincial, national, and global levels:
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c3de658b-0956-4c76-a36e-d7149c8168d6&autoAuth=true&ctid=dabca032-9edf-4a38-8128-23f1c18ab2a3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
+## QGIS
+This map is one of four that were created in QGIS that show property owners for a specific area in North Surrey that was being targeted for future development:  
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/swminster_owners1.PNG "Map created with QGIS")
+
+
+## Adobe Illustrator
+This map was published for a cartography course and stylized using Adobe Illustrator:
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Illustrator.PNG "Map created with Adobe Illustrator")
 
 ## ArcGIS
 This map was created using ArcMap for a course in advanced GIS:  
