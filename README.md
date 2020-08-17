@@ -7,7 +7,12 @@ This map was created QGIS and shows manually classified online housing posts (Cr
 
 ## MapboxGL JS
 This data visualization was created for an advanced web mapping course using MapboxGL JS and HTML. This is an interactive version of the QGIS map provided in the previous section. See below:
+<br>
+
 <iframe src="https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons.html" height="600" width="800"></iframe>
+
+For fullscreen use see <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons.html" title = "MapboxGL JS Example" target = "_blank"> here. </a>
+<br>
 
 ## Adobe Illustrator
 This map was published for a cartography course and stylized using Adobe Illustrator:
