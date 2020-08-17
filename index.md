@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Andy Fink Resume Portfolio ###
+This is a small selection of maps and data visualizations created using QGIS, MapboxGL, Adobe Illustrator, Power BI, and ArcGIS.  
 
-You can use the [editor on GitHub](https://github.com/Andersonfranklin/Resume-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## QGIS
+This map was created QGIS and shows manually classified online housing posts (Craigslist, VRBO, etc.) that were used as a machine learning training dataset. This data was delivered to the City of Surrey as part of the 2018 UBC Data Science for Social Good program:  
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/QGIS.PNG "Map created with QGIS")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## MapboxGL JS
+This data visualization was created for an advanced web mapping course using MapboxGL JS and HTML. This is an interactive version of the QGIS map provided in the previous section. See below:
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons" height="600" width="800"></iframe>
 
-```markdown
-Syntax highlighted code block
+For fullscreen use see <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/G472_Web_Map_with_Buttons" title = "MapboxGL JS Example" target = "_blank"> here. </a>
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+## Adobe Illustrator
+This map was published for a cartography course and stylized using Adobe Illustrator:
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Illustrator.PNG "Map created with Adobe Illustrator")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andersonfranklin/Resume-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## ArcGIS
+This map was created using ArcMap for a course in advanced GIS:  
+![alt text](https://blogs.ubc.ca/translinkupdates/files/2017/12/DADistance.jpg "Map created with ArcMap")  
