@@ -22,7 +22,7 @@ This map was published for a cartography course and stylized using Adobe Illustr
 
 ## Microsoft Excel
 Survey data was frequently collected using SimpleSurvey and processed using Microsoft Excel. In this example, business owners were asked to respond to a number of questions to determine how their businesses had been impacted by COVID-19. 
-![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/swminster_owners1.PNG "Sample survey results created using Microsoft Excel")
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/BIS.PNG "Sample survey results created using Microsoft Excel")
 
 The complete set of graphs was delivered to Surrey City Council and can be found <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Business Impact Survey Results formatted - v3.pdf" title = "Business Impact Survey Results" target = "_blank"> here. </a>
 
