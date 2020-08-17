@@ -1,5 +1,5 @@
 ### Andy Fink Resume Portfolio ###
-This is a small selection of maps and data visualizations created using QGIS, MapboxGL, Adobe Illustrator, Power BI, Microsoft Excel, and ArcGIS.  
+This is a small selection of maps and data visualizations created using QGIS, MapboxGL, Adobe Illustrator, Power BI, Microsoft Office Suite, and ArcGIS.  
 
 ## MapboxGL JS
 This map was created using MapboxGL JS and shows manually classified online housing posts (Craigslist, VRBO, etc.) that were used as a machine learning training dataset. This data was delivered to the City of Surrey as part of the 2018 UBC Data Science for Social Good program:
@@ -20,11 +20,21 @@ This map is one of four that were created in QGIS that show property owners for 
 This map was published for a cartography course and stylized using Adobe Illustrator:
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Illustrator.PNG "Map created with Adobe Illustrator")
 
-## Microsoft Excel
+## Microsoft Office Suite
 Survey data was frequently collected using SimpleSurvey and processed using Microsoft Excel. In this example, business owners were asked to respond to a number of questions to determine how their businesses had been impacted by COVID-19. 
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/BIS.PNG "Sample survey results created using Microsoft Excel")
 
 The complete set of graphs was delivered to Surrey City Council and can be found <a href = "https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Business Impact Survey Results formatted - v3.pdf" title = "Business Impact Survey Results" target = "_blank"> here. </a>
+
+The province of BC declared a public state of emergency for COVID-19 on March 18th, 2020. Each week since the declaration was made, I have collected, processed, and created visualizations for epidemiological data provided by Johns Hopkins University. Two examples of the charts that are updated weekly can be found below:
+
+Global New Cases (Weekly) and Total Cases
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Global Weekly New Cases.PNG "COVID-19 data visualized using Microsoft Excel")
+
+
+Canadian New Cases (Weekly) and Total Cases
+![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Canadian Weekly New Cases.PNG "COVID-19 data visualized using Microsoft Excel")
+
 
 ## ArcGIS
 This map was created using ArcMap for a course in advanced GIS:  
