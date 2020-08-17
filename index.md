@@ -28,11 +28,11 @@ The complete set of graphs was delivered to Surrey City Council and can be found
 
 The province of BC declared a public state of emergency for COVID-19 on March 18th, 2020. Each week since the declaration was made, I have collected, processed, and created visualizations for epidemiological data provided by Johns Hopkins University. Two examples of the charts that are updated weekly can be found below:
 
-Global New Cases (Weekly) and Total Cases
+# Global New Cases (Weekly) and Total Cases
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Global Weekly New Cases.PNG "COVID-19 data visualized using Microsoft Excel")
 
 
-Canadian New Cases (Weekly) and Total Cases
+# Canadian New Cases (Weekly) and Total Cases
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/Canadian Weekly New Cases.PNG "COVID-19 data visualized using Microsoft Excel")
 
 
