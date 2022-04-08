@@ -13,12 +13,6 @@ For fullscreen use see <a href = "https://ubc-geob472-spring2019.github.io/ander
 <br>
 
 
-## Microsoft Power BI
-An automatically updating Power BI Dashboard containing detailed information about COVID-19 at the provincial, national, and global levels (requires microsoft sign-in):
-<div align="center">
-<iframe width="800" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c3de658b-0956-4c76-a36e-d7149c8168d6&autoAuth=true&ctid=dabca032-9edf-4a38-8128-23f1c18ab2a3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
-</div>
-
 ## Microsoft Office Suite
 Survey data was frequently collected using SimpleSurvey and processed using Microsoft Excel. In this example, business owners were asked to respond to a number of questions to determine how their businesses had been impacted by COVID-19. 
 ![alt text](https://ubc-geob472-spring2019.github.io/andersonfranklin-web/BIS.PNG "Sample survey results created using Microsoft Excel")
